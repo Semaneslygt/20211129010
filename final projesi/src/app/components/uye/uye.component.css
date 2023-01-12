@@ -1,0 +1,21 @@
+.vMiddle {
+    vertical-align: middle;
+}
+
+.h25px {
+    height: 25px !important;
+}
+
+.h75px {
+    height: 75px !important;
+}
+.text-right {
+    text-align: right !important;
+}
+
+table > thead > th {
+    font-weight: 400;
+    text-align: center;
+    padding:10px !important;
+    color:#fff
+}
